@@ -522,7 +522,7 @@
 					Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum dolores, quasi quae ipsa
 					voluptate itaque atque tempore ea ratione minima, excepturi mollitia perferendis veritatis, dolor
 					vero sint in autem recusandae?
-				</p>
+			    </p>
 				<p>
 					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt, officia repellat? Atque
 					molestias in perferendis asperiores, vitae, delectus consequatur ea corporis libero blanditiis sequi

@@ -111,11 +111,20 @@
                         <li>
                             <a href="{{route('content',['about'])}}"><i class="fa fa-table fa-fw"></i>About</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="{{route('content',['awards'])}}"><i class="fa fa-table fa-fw"></i>Awards</a>
+                        </li> -->
+                        <li>
+                            <a href="{{URL::to('/gallary')}}"><i class="fa fa-table fa-fw"></i>Gallary</a>
                         </li>
                         <li>
+                            <a href="{{URL::to('/gallary/category')}}"><i class="fa fa-table fa-fw"></i>Gallary Category</a>
+                        </li>
+                        <!-- <li>
                             <a href="{{route('content',['leadership'])}}"><i class="fa fa-table fa-fw"></i>Leadership</a>
+                        </li> -->
+                        <li>
+                            <a href="{{URL::to('leadership')}}"><i class="fa fa-table fa-fw"></i>Leadership</a>
                         </li>
                         <li>
                             <a href="{{route('content',['clients'])}}"><i class="fa fa-table fa-fw"></i>clients</a>
